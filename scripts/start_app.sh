@@ -1,1 +1,1 @@
-/home/ec2-user/main
+nohup /home/ec2-user/main &
