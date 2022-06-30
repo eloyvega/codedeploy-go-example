@@ -1,1 +1,1 @@
-./main
+/home/ec2-user/main
